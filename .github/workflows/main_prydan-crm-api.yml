@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PRYDAN-CRM-API'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82395AED46794C0EA21F1870D2D0BDD7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7F7C295DA029493BB7E47D35010428F7 }}
